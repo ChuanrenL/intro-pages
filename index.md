@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog
 ---
-### And this is Nate's blog 
+##### Note:This is my first blog for training 
